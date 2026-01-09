@@ -231,6 +231,7 @@ async def ping(interaction: discord.Interaction):
     await interaction.response.send_message("🏓 Pong!", ephemeral=True)
 
 # ================= RUN =================
-
+TOKEN = os.getenv("MTQ1OTEzNjEwODY4NzI2NTgyMg.G02FDV.6MpFsnRFY4z0yzvV0HRrHMGxYx9TyyDXKCjmzo")
 bot.run(TOKEN)
+
 

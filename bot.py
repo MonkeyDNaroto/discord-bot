@@ -232,4 +232,5 @@ async def ping(interaction: discord.Interaction):
 
 # ================= RUN =================
 
-bot.run(MTQ1OTEzNjEwODY4NzI2NTgyMg.G02FDV.6MpFsnRFY4z0yzvV0HRrHMGxYx9TyyDXKCjmzo)
+bot.run(TOKEN)
+
